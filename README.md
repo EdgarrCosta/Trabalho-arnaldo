@@ -60,7 +60,9 @@ Este diagrama representa as interações dos usuários com o sistema, mostrando 
 
 Este diagrama detalha o fluxo completo do usuário (hóspede, anfitrião e suporte) na plataforma, passo a passo, incluindo as interações com o sistema.
 
-<img width="1063" height="811" alt="Image" src="https://github.com/user-attachments/assets/971498d6-8ac6-4836-a28d-5f9bbdf499fd" />
+
+<img width="1521" height="1201" alt="Airtobe" src="https://github.com/user-attachments/assets/8ddf7874-6401-424c-a76b-04b4306da884" />
+
 
 ### Diagrama de Sequencia (UML)
 
