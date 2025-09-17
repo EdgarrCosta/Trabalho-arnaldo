@@ -24,7 +24,6 @@
 * **Geração de Relatórios**: Capacidade de gerar relatórios sobre o uso da plataforma.
 * **Resolução de Problemas**: Funções para mediar e resolver questões entre usuários e anfitriões.
 
----
 
 ## Documentação Visual
 
