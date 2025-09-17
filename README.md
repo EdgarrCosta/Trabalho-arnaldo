@@ -44,7 +44,8 @@ Este diagrama detalha o fluxo completo do usuário (hóspede, anfitrião e supor
 
 Este diagrama representa a interação que um novo usuario teria no processo de reservar uma hospedagem.
 
-![Texto alternativo](diagramadesequencia.png)
+
+<img width="874" height="1154" alt="diagramadesequencia" src="https://github.com/user-attachments/assets/8618a380-6bd4-4fee-98ee-3dd27839cc3e" />
 
 
 ### Protótipo da Interface (Figma)
