@@ -44,6 +44,9 @@ Este diagrama detalha o fluxo completo do usuário (hóspede, anfitrião e supor
 
 Este diagrama representa a interação que um novo usuario teria no processo de reservar uma hospedagem.
 
+![Texto alternativo](diagramadesequencia.png)
+
+
 ### Protótipo da Interface (Figma)
 
 Um protótipo interativo das telas do aplicativo, oferecendo uma visão clara da experiência do usuário.
