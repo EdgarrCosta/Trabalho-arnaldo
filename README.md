@@ -54,7 +54,7 @@
 
 Este diagrama representa as interações dos usuários com o sistema, mostrando os principais casos de uso e os atores envolvidos.
 
-<img width="1351" height="730" alt="Image" src="https://github.com/user-attachments/assets/62468e6d-79d7-454d-904d-0129d3f16310" />
+<img width="1506" height="802" alt="Airbnb 2" src="https://github.com/user-attachments/assets/250aa1c4-4dcf-4a25-9e87-c97704479647" />
 
 ### Diagrama de Fluxo de Processo
 
