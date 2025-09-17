@@ -40,6 +40,10 @@ Este diagrama detalha o fluxo completo do usuário (hóspede, anfitrião e supor
 
 <img width="1063" height="811" alt="Image" src="https://github.com/user-attachments/assets/971498d6-8ac6-4836-a28d-5f9bbdf499fd" />
 
+### Diagrama de Sequencia (UML)
+
+Este diagrama representa a interação que um novo usuario teria no processo de reservar uma hospedagem.
+
 ### Protótipo da Interface (Figma)
 
 Um protótipo interativo das telas do aplicativo, oferecendo uma visão clara da experiência do usuário.
