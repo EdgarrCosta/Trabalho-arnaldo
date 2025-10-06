@@ -78,21 +78,22 @@
 
 Este diagrama representa as interações dos usuários com o sistema, mostrando os principais casos de uso e os atores envolvidos.
 
-(diagramas/diagrama_de_caso_de_uso.png)
+[Ver arquivo](https://github.com/EdgarrCosta/Trabalho-arnaldo/blob/main/diagramas/diagrama_de_caso_de_uso.png)
+
 
 ### Diagrama de Fluxo de Processo
 
 Este diagrama detalha o fluxo completo do usuário (hóspede, anfitrião e suporte) na plataforma, passo a passo, incluindo as interações com o sistema.
 
 
-(diagramas/fluxograma.png)
+[Ver arquivo](https://github.com/EdgarrCosta/Trabalho-arnaldo/blob/main/diagramas/fluxograma.png)
 
 ### Diagrama de Sequencia (UML)
 
 Este diagrama representa a interação que um novo usuario teria no processo de reservar uma hospedagem.
 
 
-(diagramas/diagrama_de_sequencia.png)
+[Ver arquivo](https://github.com/EdgarrCosta/Trabalho-arnaldo/blob/main/diagramas/diagrama_de_sequencia.png)
 
 
 ### Protótipo da Interface (Figma)
