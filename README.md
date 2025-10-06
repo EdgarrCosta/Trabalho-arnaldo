@@ -78,22 +78,21 @@
 
 Este diagrama representa as interações dos usuários com o sistema, mostrando os principais casos de uso e os atores envolvidos.
 
-<img width="1506" height="802" alt="Airbnb 2" src="https://github.com/user-attachments/assets/250aa1c4-4dcf-4a25-9e87-c97704479647" />
+(diagramas/diagrama_de_caso_de_uso.png)
 
 ### Diagrama de Fluxo de Processo
 
 Este diagrama detalha o fluxo completo do usuário (hóspede, anfitrião e suporte) na plataforma, passo a passo, incluindo as interações com o sistema.
 
 
-<img width="1521" height="1201" alt="Airtobe" src="https://github.com/user-attachments/assets/8ddf7874-6401-424c-a76b-04b4306da884" />
-
+(diagramas/fluxograma.png)
 
 ### Diagrama de Sequencia (UML)
 
 Este diagrama representa a interação que um novo usuario teria no processo de reservar uma hospedagem.
 
 
-<img width="874" height="1154" alt="diagramadesequencia" src="https://github.com/user-attachments/assets/8618a380-6bd4-4fee-98ee-3dd27839cc3e" />
+(diagramas/diagrama_de_sequencia.png)
 
 
 ### Protótipo da Interface (Figma)
