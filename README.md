@@ -91,4 +91,4 @@
 
 Um protótipo interativo das telas do aplicativo, oferecendo uma visão clara da experiência do usuário.
 
-(https://www.figma.com/proto/raWUoOrbMbYUpusBr6oXre/Untitled?node-id=0-1&t=SWPIgo5AiuHScGMp-1)
+[Wireframe Figma](https://www.figma.com/proto/a9j8e2vwPR5hUDwFON06d4/Ironhack-Challenge-2---Wireframing-Airbnb--Community-?node-id=4-58&starting-point-node-id=4%3A58)
