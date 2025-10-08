@@ -91,8 +91,12 @@
 [Diagrama de sequencia](https://github.com/EdgarrCosta/Trabalho-arnaldo/blob/Diagrama-de-Sequencia/README.md)
 
 
-### Protótipo da Interface (Figma)
+### Wireframe (Figma)
 
 Um protótipo interativo das telas do aplicativo, oferecendo uma visão clara da experiência do usuário.
 
 <a href="https://www.figma.com/proto/a9j8e2vwPR5hUDwFON06d4/Ironhack-Challenge-2---Wireframing-Airbnb--Community-?node-id=4-58&starting-point-node-id=4%3A58" target="_blank">Wireframe Figma</a>
+
+
+### Protótipo de interface (Figma)
+[Protótipo de interface](https://www.figma.com/proto/raWUoOrbMbYUpusBr6oXre/Untitled?node-id=5-11&starting-point-node-id=5%3A11)
