@@ -1,5 +1,9 @@
 # Aplicativo de Hospedagem (Airbnb)
 
+## Visão geral
+
+Nosso projeto tem como finalidade simular um aplicativo de hospedagem nos moldes do Airbnb, com tês perfis de usuário: hóspede, anfitrião e administrador.
+
 ## Requisitos do sistema
 
 ### Viajante (Hóspede)
