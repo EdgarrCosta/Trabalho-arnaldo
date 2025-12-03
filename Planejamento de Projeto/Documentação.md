@@ -1,4 +1,4 @@
-# 📈 PLANO DE PROJETO: Aplicativo de Hospedagem (Marketplace)
+# 📈 PLANO DE PROJETO: Aplicativo de Hospedagem (Airbnb)
 
 Este documento detalha o plano de projeto do **Aplicativo de Hospedagem (Airbnb)**, estruturado em resposta às diretrizes dos Investidores Anjo (Anjos do Brasil). O cronograma e as entregas mensais são os artefatos chave para o monitoramento do projeto e aplicação dos prêmios de performance.
 
@@ -10,7 +10,7 @@ Este documento detalha o plano de projeto do **Aplicativo de Hospedagem (Airbnb)
 ## 📍 1. 5W2H – Detalhamento do Projeto
 
 ### 1.1 What – O que será feito?
-Desenvolvimento de um **Aplicativo de Hospedagem (Marketplace)** para conectar anfitriões e hóspedes, com funcionalidades de cadastro de imóveis, busca geolocalizada, sistema de reservas, pagamentos seguros e avaliações mútuas.
+Desenvolvimento de um **Aplicativo de Hospedagem (Airbnb)** para conectar anfitriões e hóspedes, com funcionalidades de cadastro de imóveis, busca geolocalizada, sistema de reservas, pagamentos seguros e avaliações mútuas.
 
 ### 1.2 Why – Por que será feito?
 Para criar uma plataforma **focada em nicho/região** que ofereça **curadoria de qualidade** e **suporte personalizado**, visando reduzir atritos do usuário e otimizar a experiência de reserva e aluguel de curto prazo.
