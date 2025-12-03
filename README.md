@@ -1,5 +1,6 @@
 # Aplicativo de Hospedagem (Airbnb)
-#### Nomes: Edgar e Luccas
+#### Nomes: Edgar Costa e Luccas Julio
+
 ## Visão geral
 
 Nosso projeto tem como finalidade simular um aplicativo de hospedagem nos moldes do Airbnb, com tês perfis de usuário: hóspede, anfitrião e administrador.
