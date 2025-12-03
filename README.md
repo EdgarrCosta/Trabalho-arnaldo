@@ -6,6 +6,9 @@ quero ter ferramentas para mediar e resolver disputas entre viajantes e anfitri�
 
 [Backlog](https://github.com/users/EdgarrCosta/projects/1)
 
+## Projeto de desenvolvimento
+[Projeto](https://github.com/EdgarrCosta/Trabalho-arnaldo/blob/main/Planejamento%20de%20Projeto/Documenta%C3%A7%C3%A3o.md)
+
 ## Documentação Visual
 
 ### Diagrama de Casos de Uso (UML)
