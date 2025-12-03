@@ -1,115 +1,99 @@
-## **📍 1\. 5W2H – Planejamento do Projeto**
+# 📈 PLANO DE PROJETO: Aplicativo de Hospedagem (Marketplace)
 
-### **1.1 What – O que será feito?**
+Este documento detalha o plano de projeto do **Aplicativo de Hospedagem (Airbnb)**, estruturado em resposta às diretrizes dos Investidores Anjo (Anjos do Brasil). O cronograma e as entregas mensais são os artefatos chave para o monitoramento do projeto e aplicação dos prêmios de performance.
 
-Desenvolvimento de um **Sistema de Gerenciamento de Biblioteca** com funcionalidades de cadastro de livros, usuários, empréstimos, devoluções e controle geral do acervo.
 
-### **1.2 Why – Por que será feito?**
+**Metodologia:** Scrum (7 meses, Sprints de 2 semanas).
 
-Para modernizar e facilitar o controle de bibliotecas que hoje operam com processos manuais, **reduzindo erros, atrasos, perdas de dados** e aumentando a eficiência e organização.
+---
 
-### **1.3 Where – Onde será feito?**
+## 📍 1. 5W2H – Detalhamento do Projeto
 
-O desenvolvimento será realizado de forma remota e colaborativa, com o repositório central hospedado no **GitHub**. O sistema será executado localmente no ambiente do cliente.
+### 1.1 What – O que será feito?
+Desenvolvimento de um **Aplicativo de Hospedagem (Marketplace)** para conectar anfitriões e hóspedes, com funcionalidades de cadastro de imóveis, busca geolocalizada, sistema de reservas, pagamentos seguros e avaliações mútuas.
 
-### **1.4 When – Quando será feito?**
+### 1.2 Why – Por que será feito?
+Para criar uma plataforma **focada em nicho/região** que ofereça **curadoria de qualidade** e **suporte personalizado**, visando reduzir atritos do usuário e otimizar a experiência de reserva e aluguel de curto prazo.
 
-O projeto será executado ao longo de **6 meses**, com entregas mensais pré-definidas.
+### 1.3 Where – Onde será feito?
+* **Desenvolvimento:** Remoto e Colaborativo.
+* **Repositório:** GitHub.
+* **Hospedagem (Produção):** Serviços de **Cloud Computing (AWS/GCP)**, garantindo escalabilidade.
+* **Distribuição:** Google Play Store e Apple App Store.
 
-### **1.5 Who – Quem fará?**
+### 1.4 When – Quando será feito?
+O projeto será executado em um período total de **7 meses**.
 
-Uma equipe multidisciplinar de 7 pessoas:  
-| Especialidade | Quantidade | Responsabilidades |  
-| :--- | :---: | :--- |  
-| Desenvolvedores Front-end | 2 | Interface, usabilidade, HTML/CSS/JS |  
-| Desenvolvedores Back-end | 2 | APIs, banco de dados, integrações |  
-| Design UX/UI | 1 | Protótipos, identidade visual |  
-| QA (Testes) | 1 | Automação, testes manuais, qualidade |  
-| DevOps | 1 | Configuração de ambiente, versionamento |
+### 1.5 Who – Quem fará?
+Equipe multidisciplinar de **7 pessoas**: 2 Desenvolvedores Mobile, 2 Desenvolvedores Back-end, 1 Designer UX/UI, 1 QA Engineer, 1 DevOps/Cloud Engineer.
 
-### **1.6 How – Como será feito?**
+### 1.6 How – Como será feito?
+* Metodologia **Scrum** com *sprints* quinzenais.
+* *Daily stand-ups* diárias e *reviews* de *sprint*.
+* **Versionamento GitFlow** no GitHub.
+* Implementação de pipelines de **CI/CD** e testes contínuos de segurança (LGPD/PCI DSS).
 
-* Uso de **metodologias ágeis (Scrum)**  
-* Reuniões semanais de acompanhamento  
-* Versionamento contínuo no GitHub  
-* Entregas divididas em *sprints* mensais  
-* Testes contínuos e validados por QA  
-* Comunicação via Discord/WhatsApp e Trello
+### 1.7 How Much – Quanto vai custar?
+Custos totais estimados para 7 meses: **R$ 150.000**.
 
-### **1.7 How Much – Quanto vai custar?**
+| Categoria | Valor (R$) | Percentual |
+| :--- | :--- | :--- |
+| Equipe | 70.000 | 47% |
+| Infraestrutura e APIs | 30.000 | 20% |
+| Marketing e Lançamento | 25.000 | 17% |
+| Segurança e Conformidade | 15.000 | 10% |
+| Contingência | 10.000 | 6% |
 
-Custos totais estimados para 6 meses: **R$ 120.000**.
+---
 
-| Categoria | Valor (R$) |
-| :---- | :---- |
-| Equipe | 60.000 |
-| Infraestrutura (servidores, banco, APIs) | 20.000 |
-| Marketing e apresentação | 20.000 |
-| Testes, segurança e LGPD | 10.000 |
-| Contingência | 10.000 |
-| **Total Geral** | **R$ 120.000** |
+## 💰 2. Investimento Solicitado e Valuation
 
-## **💰 2\. Valuation e Pedido de Investimento**
+O investimento solicitado para cobrir o custo de desenvolvimento de 7 meses é de **R$ 150.000**, em troca de **12%** de participação na empresa, baseado em um *Valuation* de R$ 1.250.000.
 
-| Indicador | Detalhe |
-| :---- | :---- |
-| **Investimento Solicitado** | R$ 120.000 |
-| **Participação Oferecida** | 10% da empresa |
-| **Valuation Calculado** | **R$ 1.200.000** |
+---
 
-O valuation foi definido com base no custo de desenvolvimento, projeção de vendas para 24 meses e potencial de expansão no mercado educacional.
+## 📅 3. Cronograma Completo de Entregas (7 Meses)
 
-### **📦 Uso do Investimento**
+**Artefato Principal para os Investidores:** A conclusão das "Entregáveis Principais" por data é o requisito para a aplicação do prêmio em dinheiro extra.
 
-| Área | Percentual | Valor (R$) |
-| :---- | :---- | :---- |
-| Desenvolvimento | 50% | 60.000 |
-| Infraestrutura | 17% | 20.000 |
-| Marketing | 17% | 20.000 |
-| Segurança e LGPD | 8% | 10.000 |
-| Contingência | 8% | 10.000 |
+| Mês | Foco Principal | Entregáveis Principais (Gatilho de Prêmio) | Responsável pela Validação |
+| :--- | :--- | :--- | :--- |
+| **Mês 1** | **Design e Arquitetura** | **1. Protótipo Navegável** de alta fidelidade aprovado. **2. Documento de Arquitetura (APIs e Cloud)** finalizado. | PO e Designer UX/UI |
+| **Mês 2** | **Estrutura de Dados e Back-end Básico** | **1. Módulo de Usuários e Autenticação** concluído e testado. **2. Configuração completa do Banco de Dados** (PostgreSQL/MongoDB). | Back-end e QA |
+| **Mês 3** | **Interface Inicial e Busca** | **1. Aplicativo Mobile Estruturado** (Onboarding e Home). **2. Funcionalidade de Busca Geográfica e Listagem** integrada à API. | Mobile e Designer UX/UI |
+| **Mês 4** | **Funcionalidade Central (Reservas)** | **1. Lógica de Reservas (Back-end)** completa. **2. Integração do Gateway de Pagamento** em ambiente de testes (*Sandbox*). | Back-end e QA |
+| **Mês 5** | **Módulo Anfitrião e Avaliações** | **1. Módulo de Cadastro de Imóveis** (incluindo upload de fotos) finalizado. **2. Sistema de Avaliação Mútua** funcionando. | Mobile e PO |
+| **Mês 6** | **Qualidade e Segurança (MVP)** | **1. Testes de Carga (Stress Test)** aprovados. **2. Relatório de Conformidade LGPD** e Segurança. **3. Pacote MVP** pronto para *deploy*. | QA e DevOps |
+| **Mês 7** | **Go Live e Lançamento** | **1. Lançamento oficial nas App Stores** (iOS e Android). **2. Documentação de Suporte e Manutenção** entregue. **3. Apresentação Final** aos investidores. | PO e DevOps |
 
-## **📅 3\. Cronograma Completo de Entregas (6 Meses)**
+---
 
-Investidores aplicarão bônus em dinheiro a cada entrega concluída dentro do prazo.
+## 🧩 4. Papéis e Responsabilidades
 
-| Mês | Entrega Principal | Foco |
-| :---- | :---- | :---- |
-| **Mês 1** | Planejamento final, protótipos, definição da arquitetura | **Design e Arquitetura** |
-| **Mês 2** | Desenvolvimento do back-end (estrutura \+ banco) | **Estrutura de Dados** |
-| **Mês 3** | Desenvolvimento do front-end inicial | **Interface** |
-| **Mês 4** | Integração front-end ↔ back-end | **Funcionalidade Central** |
-| **Mês 5** | Testes, correções, conformidade LGPD | **Qualidade e Segurança** |
-| **Mês 6** | Entrega final, documentação e apresentação aos investidores | **Go Live** |
+A definição dos papéis segue o princípio de *Accountability* (Responsabilidade final pela entrega):
 
-## **🧩 4\. Papéis e Responsabilidades**
+| Papel | Responsabilidades Chave |
+| :--- | :--- |
+| **Product Owner (PO)** | Visão do produto, gestão do *Backlog*, validação do MVP, comunicação com *stakeholders*. |
+| **Desenvolvedores** | Escrita de código limpo e testável, *Code Review*, implementação de funcionalidades. |
+| **Designer UX/UI** | Criação de protótipos, teste de usabilidade, garantia da identidade visual. |
+| **QA Engineer** | Elaboração de planos de teste, execução de testes automatizados e de segurança. |
+| **DevOps/Cloud Engineer** | Gerenciamento da Infraestrutura (Cloud), manutenção de CI/CD, monitoramento de performance. |
 
-* **🧑‍💻 Desenvolvedores:** Criar funcionalidades, corrigir *bugs*, documentar código.  
-* **🎨 Designer UX/UI:** Criar protótipos navegáveis e definir o visual final.  
-* **🧪 QA:** Garantir qualidade, realizar testes e reportar falhas.  
-* **⚙️ DevOps:** Criar *pipelines*, organizar repositório, manter ambiente.  
-* **🧑‍🏫 Product Owner (PO):** Definir prioridades, validar funcionalidades, garantir foco no usuário.
+---
 
-## **🚀 5\. Escalabilidade e Potencial de Mercado**
+## 🚀 5. Manutenção da Motivação e União da Equipe
 
-### **Manutenção da Motivação da Equipe**
+A estratégia para manter a equipe motivada e unida é baseada em três pilares:
 
-* Reuniões rápidas e objetivas  
-* Metas claras e recompensas (bônus por *sprint*)  
-* Reconhecimento individual  
-* Comunicação transparente  
-* Ambiente leve e colaborativo  
-* Apresentações mensais dos progressos  
-* Rodízio de tarefas para evitar monotonia
+### 1. Incentivo Financeiro Direto
+* **Prêmios por Entrega:** O prêmio extra dos investidores será compartilhado com a equipe como **bônus por performance**, vinculando diretamente o sucesso da entrega mensal ao reconhecimento financeiro.
 
-### **Potencial de Mercado**
+### 2. Reconhecimento e Crescimento
+* **Reconhecimento Individual:** Sessões mensais de *feedback* positivo e destaque público das contribuições críticas para o sucesso da *sprint*.
+* **Apoio ao Estudo:** Incentivo ao aprendizado de novas tecnologias e tempo dedicado para aprimoramento profissional.
 
-O sistema é escalável e pode ser adaptado para:
-
-* Escolas  
-* Faculdades  
-* Bibliotecas públicas  
-* Empresas com acervo interno  
-* Plataformas de leitura digital
-
-A previsão é atingir **200 clientes** nos primeiros 24 meses com assinatura mensal.
+### 3. Transparência e Colaboração
+* **Comunicação Aberta:** Todas as decisões e impedimentos são discutidos abertamente nos canais de comunicação da equipe.
+* **Cerimônias Scrum:** Uso disciplinado de *Daily Stand-ups* e *Retrospectivas* para alinhamento contínuo e resolução proativa de problemas.
+* **Apresentações de Progresso:** *Demos* mensais aos *stakeholders* para que a equipe visualize o impacto e o valor do seu trabalho.
