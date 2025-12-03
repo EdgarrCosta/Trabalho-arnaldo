@@ -1,9 +1,3 @@
-# **📌 Planejamento do Projeto – Sistema de Gerenciamento de Biblioteca**
-
-**Repositório:** [https://github.com/EdgarrCosta/Trabalho-arnaldo](https://github.com/EdgarrCosta/Trabalho-arnaldo)
-
-Este documento apresenta o planejamento completo do projeto conforme solicitado pelos investidores anjo, detalhando 5W2H, cronograma, equipe, custos e estratégia de crescimento.
-
 ## **📍 1\. 5W2H – Planejamento do Projeto**
 
 ### **1.1 What – O que será feito?**
